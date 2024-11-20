@@ -26,9 +26,9 @@ export default function Home() {
           />
         </div>
 
-        <div className="flex flex-1 flex-col self-center" >
-          <p className="text-8xl" >Looking to go digital <span className="text-indigo-500" >?</span></p>
-          <p className="text-6xl mt-16" >Start with a website</p>
+        <div className="p-8 flex flex-1 flex-col self-center bg-slate-800 rounded-2xl" >
+          <p className="text-8xl text-white" >Looking to go digital <span className="text-amber-500" >?</span></p>
+          <p className="text-6xl mt-16 text-white" >Start with a website</p>
         </div>
       </main>
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">

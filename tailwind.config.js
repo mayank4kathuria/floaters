@@ -19,6 +19,11 @@ module.exports = {
       },
       animation: {
         wiggle: 'wiggle 1s ease-in-out infinite',
+      },
+      backgroundImage: {
+        'dark-particles': "url('/assets/background svg-2.svg')",
+        'wave-img': "url('/assets/wave.svg')",
+        'floating-figures': "url('/assets/background svg-1.svg')",
       }
     },
   },
